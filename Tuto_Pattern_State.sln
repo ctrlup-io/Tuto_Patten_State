@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuto_Pattern_State", "Tuto_Pattern_State\Tuto_Pattern_State.csproj", "{B1D96C80-CFE8-40EA-A070-93D7E22AE074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D96C80-CFE8-40EA-A070-93D7E22AE074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D96C80-CFE8-40EA-A070-93D7E22AE074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D96C80-CFE8-40EA-A070-93D7E22AE074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D96C80-CFE8-40EA-A070-93D7E22AE074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28EC828-CAEA-4F8B-ACB4-E44741A75F7F}
+	EndGlobalSection
+EndGlobal
